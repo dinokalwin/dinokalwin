@@ -15,12 +15,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00ff41&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=000000" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Security+Operations+%7C+SOC;Cloud+Security+Explorer;IoT+Security+%7C+Information+Security;Computer+Science+Engineering+Student;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" />
 </p>
 
 ---
