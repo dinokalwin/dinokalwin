@@ -275,18 +275,6 @@ Secure Configuration
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
-> github_statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jacob&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" height="180"/> </p>
-
-> contribution_streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Jacob&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF" /> </p>
-
-> contribution_graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jacob&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true"/> </p>
-
-> github_trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jacob&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6"/> </p>
-
 
 > objectives
                     ┌───────────────────┐
