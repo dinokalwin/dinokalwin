@@ -1,232 +1,345 @@
-# 👋 Hi, I'm Dino Kalwin Jacob
-
-### 🎓 Computer Science Engineering Student | 🔐 Cybersecurity | 🌐 IoT | ⛓️ Blockchain
-
-I'm a **Computer Science Engineering student** with a strong interest in **Cybersecurity, Internet of Things (IoT), Cloud Security, and Blockchain Technology**.
-
-I enjoy building technology-driven projects, learning about security challenges, and exploring how connected systems can be designed to be **secure, scalable, and reliable**.
-
----
-
-## 🚀 About Me
-
-* 🎓 Pursuing **B.E. Computer Science and Engineering**
-* 🏫 **SNS College of Technology, Coimbatore**
-* 💻 Interested in **Cybersecurity & Information Security**
-* 🌐 Exploring **Internet of Things (IoT)**
-* ⛓️ Interested in **Blockchain Technology**
-* ☁️ Learning about **Cloud Security & Cloud Computing**
-* 📊 Exploring **Data Science for IoT Analytics**
-* 🔐 Interested in **Security Operations and Threat Detection**
-* 📚 Currently developing my technical and cybersecurity skills
-* 🌍 Planning to pursue a **Master's degree in Cybersecurity / Information Security / Computer Science in Germany or the USA**
-
----
-
-## 🛡️ Areas of Interest
+# `> whoami`
 
 ```text
-Cybersecurity
-├── Information Security
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ██████╗ ██╗███╗   ██╗ ██████╗                            │
+│   ██╔══██╗██║████╗  ██║██╔═══██╗                           │
+│   ██║  ██║██║██╔██╗ ██║██║   ██║                           │
+│   ██║  ██║██║██║╚██╗██║██║   ██║                           │
+│   ██████╔╝██║██║ ╚████║╚██████╔╝                           │
+│   ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝                            │
+│                                                              │
+│              CYBERSECURITY • IoT • CLOUD • SECURITY          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+## 👨‍💻 `> about_me`
+
+```bash
+$ whoami
+
+Dino Jacob
+Computer Science Engineering Student
+Cybersecurity Enthusiast
+IoT & Cloud Security Explorer
+```
+
+🎓 **B.E. Computer Science and Engineering**
+🏫 **SNS College of Technology, Coimbatore**
+
+I'm a Computer Science Engineering student focused on **Cybersecurity, Information Security, IoT Security, Cloud Security, and Blockchain Technology**.
+
+I enjoy understanding how systems work, identifying security challenges, experimenting with security technologies, and building projects that combine **software, connected devices, data, and security**.
+
+---
+
+## 🛡️ `> cybersecurity`
+
+```text
+┌────────────────────────────────────────────┐
+│              CYBERSECURITY                 │
+├────────────────────────────────────────────┤
+│                                            │
+│  🔐 Information Security                   │
+│  🌐 Network Security                       │
+│  ☁️  Cloud Security                        │
+│  🚨 Threat Detection                       │
+│  🛡️  Security Operations                   │
+│  🔎 Security Monitoring                    │
+│  ⚠️  Vulnerability Assessment               │
+│  📊 Security Analysis                      │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+### 🔍 Areas I'm Exploring
+
+* Security Operations (SOC)
+* Threat Detection & Monitoring
+* Network Security
+* Cloud Security
+* Incident Response
+* Vulnerability Assessment
+* Information Security
+* IoT Security
+* Security Analytics
+* Identity & Access Management
+
+---
+
+## 🌐 `> IoT_security`
+
+My interest in **Internet of Things** focuses on building connected systems while considering their security from the beginning.
+
+```text
+Sensors
+   │
+   ▼
+IoT Device
+   │
+   ▼
+Network
+   │
+   ▼
+Cloud
+   │
+   ▼
+Data Analytics
+   │
+   ▼
+Security Monitoring
+```
+
+### 🌱 Current Project Interest
+
+**Smart Soil Monitoring System**
+
+Monitoring:
+
+* 💧 Soil Moisture
+* 🧪 Soil pH
+* 🌿 Nitrogen Level
+* 📡 IoT Sensor Data
+* ☁️ Cloud/Data Processing
+* 🔐 IoT Security
+
+---
+
+## ☁️ `> cloud_security`
+
+Currently exploring:
+
+```text
+Cloud Computing
+      │
+      ├── Identity & Access Management
+      ├── Network Security
+      ├── Data Protection
+      ├── Threat Detection
+      ├── Security Monitoring
+      └── Cloud Infrastructure Security
+```
+
+I'm particularly interested in how **cloud platforms can be secured against modern threats** and how security monitoring can be implemented at scale.
+
+---
+
+## 🧰 `> tech_stack`
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+### 🌐 Web & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+</p>
+
+### 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
+
+### ☁️ Cloud & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,mysql,mongodb" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+---
+
+## 🚨 `> security_toolkit`
+
+```text
+🔐 Security
+│
 ├── Network Security
-├── Cloud Security
-├── Security Operations
+├── SOC Operations
 ├── Threat Detection
+├── Incident Response
+├── Vulnerability Analysis
 └── Security Monitoring
 
-Internet of Things
-├── IoT Systems
-├── IoT Security
-├── Sensor Data
-├── Data Analytics
-└── Cloud-based IoT
+🌐 Infrastructure
+│
+├── Linux
+├── Networking
+├── Cloud
+└── IoT
 
-Emerging Technologies
-├── Blockchain
-├── Cloud Computing
-├── Data Science
-└── Artificial Intelligence
+💻 Development
+│
+├── Python
+├── C / C++
+├── Java
+└── JavaScript
 ```
 
 ---
 
-## 💻 Technical Interests
+## 📚 `> currently_learning`
 
-### 🔐 Cybersecurity
-
-* Network Security
-* Information Security
-* Cloud Security
-* Security Operations
-* Threat Detection & Monitoring
-* Security Analysis
-
-### 🌐 IoT
-
-* IoT Architecture
-* Sensors & Embedded Systems
-* IoT Data Processing
-* IoT Security
-* Cloud-based IoT Systems
-* IoT Analytics
-
-### ⛓️ Blockchain
-
-* Blockchain fundamentals
-* Distributed systems
-* Blockchain security
-* Smart-contract concepts
-
-### 📊 Data & Analytics
-
-* Data Analysis
-* Time-Series Analysis
-* IoT Data Analytics
-* Data Visualization
-* Sensor Data Processing
+```bash
+[████████████████░░░░] Cybersecurity
+[███████████████░░░░░] Network Security
+[██████████████░░░░░░] Cloud Security
+[██████████████░░░░░░] IoT Security
+[████████████░░░░░░░░] Security Operations
+[███████████░░░░░░░░░] Blockchain
+[██████████░░░░░░░░░░] Data Analytics
+```
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
-</p>
-
-### Web & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" />
-</p>
-
-### Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-> *My technology stack is continuously evolving as I learn and work on new projects.*
-
----
-
-## 📌 Featured Areas & Projects
-
-### 🌱 Smart Soil Monitoring System
-
-A proposed IoT-based system designed to monitor important soil parameters such as:
-
-* 🌡️ Soil/environmental conditions
-* 💧 Moisture level
-* 🧪 pH level
-* 🌿 Nitrogen level
-
-The goal is to collect sensor data and use IoT technologies for **real-time monitoring and agricultural analysis**.
-
----
-
-## 🔐 Cybersecurity Learning
-
-I'm currently building my knowledge in areas such as:
-
-* Security Operations
-* Cloud Security
-* Microsoft Security technologies
-* Threat Detection
-* Incident Response
-* Network Security
-* Security Monitoring
-* Information Security
-
-I'm particularly interested in developing practical cybersecurity skills through **hands-on projects, labs, certifications, and real-world security scenarios**.
-
----
-
-## 📜 Certifications & Learning
-
-Currently focused on expanding my cybersecurity knowledge through:
-
-* 🔐 Microsoft Cybersecurity technologies
-* 🛡️ Security Operations
-* ☁️ Cloud Security
-* 🌐 Network Security
-* 💻 Practical cybersecurity labs
-
----
-
-## 🎯 Current Goals
+## 🎯 `> mission`
 
 ```text
-📚 Strengthen Computer Science fundamentals
-        ↓
-🔐 Build strong Cybersecurity skills
-        ↓
-☁️ Learn Cloud & Cloud Security
-        ↓
-🌐 Develop practical IoT projects
-        ↓
-🛠️ Build cybersecurity projects & labs
-        ↓
-📜 Earn relevant industry certifications
-        ↓
-🎓 Pursue Master's in Cybersecurity / Information Security
+                     ┌──────────────────┐
+                     │   COMPUTER       │
+                     │     SCIENCE      │
+                     └────────┬─────────┘
+                              │
+                ┌─────────────┴─────────────┐
+                ▼                           ▼
+        ┌──────────────┐            ┌──────────────┐
+        │     CLOUD    │            │     IoT      │
+        └──────┬───────┘            └──────┬───────┘
+               │                           │
+               └─────────────┬─────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │  CYBERSECURITY  │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │ SECURE SYSTEMS  │
+                    └─────────────────┘
 ```
 
----
-
-## 📈 What I'm Currently Learning
-
-* 🔐 Cybersecurity & Information Security
-* ☁️ Cloud Security
-* 🌐 IoT Security
-* 📊 Data Science for IoT
-* 🛡️ Security Operations
-* 🐧 Linux & Networking
-* ⛓️ Blockchain Technology
-* 💻 Programming & Software Development
+My long-term goal is to build strong expertise in **Cybersecurity and Information Security** and pursue a **Master's degree in Cybersecurity / Information Security / Computer Science**.
 
 ---
 
-## 🤝 I'm Interested In
+## 🧪 `> projects`
 
-I'm open to collaborating on projects involving:
+| Project                  | Technologies                | Focus          |
+| ------------------------ | --------------------------- | -------------- |
+| 🌱 Smart Soil Monitoring | IoT • Sensors • Data        | IoT            |
+| 🔐 Security Projects     | Python • Linux • Networking | Cybersecurity  |
+| ☁️ Cloud Security Labs   | Cloud • IAM • Security      | Cloud Security |
+| 📊 IoT Analytics         | Python • Data Analysis      | Data Science   |
+| ⛓️ Blockchain Projects   | Blockchain • Security       | Web3 Security  |
 
-* 🔐 Cybersecurity
-* 🌐 IoT
-* ☁️ Cloud Security
-* ⛓️ Blockchain
-* 📊 Data Analytics
-* 🛡️ Security Monitoring
-* 💻 Open-source projects
+> 🚧 More security-focused projects are currently in development.
 
 ---
 
-## 📫 Connect With Me
+## 📜 `> certifications`
 
-<p align="left">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### Currently Working Towards
+
+```text
+🔐 Microsoft Security
+🛡️ Security Operations
+☁️ Cloud Security
+🌐 Network Security
+```
+
+I'm continuously building practical knowledge through **hands-on labs, technical courses, projects, and security challenges**.
+
+---
+
+## 📊 `> github_stats`
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 🔥 `> contribution_activity`
 
-> **"Learning cybersecurity isn't just about finding vulnerabilities — it's about understanding how systems work and making them stronger."**
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🧠 `> security_mindset`
 
-Feel free to explore my repositories and follow my journey as I build my skills in **Cybersecurity, IoT, Cloud, Blockchain, and Computer Science**.
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   LEARN → BUILD → TEST → SECURE → REPEAT    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+> **Security is not a feature added at the end.
+> It is part of the system from the beginning.**
+
+---
+
+## 🤝 `> collaboration`
+
+I'm interested in collaborating on:
+
+* 🔐 Cybersecurity projects
+* 🛡️ SOC & threat detection
+* 🌐 IoT security
+* ☁️ Cloud security
+* ⛓️ Blockchain security
+* 📊 Security analytics
+* 🐧 Linux & networking
+* 🌎 Open-source projects
+
+---
+
+## 📫 `> connect`
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     "THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER."    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### `> exit`
+
+**Thanks for visiting my profile. 🔐**
+
+`[ SYSTEM STATUS: LEARNING • BUILDING • SECURING ]`
