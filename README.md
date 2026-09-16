@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071a0d,100:00ff41&height=220&section=header&text=DINO%20JACOB&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20CLOUD%20SECURITY%20%7C%20IoT%20SECURITY&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071a0d,100:00ff41&height=220&section=header&text=JACOB&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20CLOUD%20SECURITY%20%7C%20IoT%20SECURITY&descAlignY=58&descSize=18"/>
 </p>
 
 <!-- ========================================================= -->
