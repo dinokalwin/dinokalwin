@@ -15,7 +15,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Security+Operations+%7C+SOC;Cloud+Security+Explorer;IoT+Security+%7C+Information+Security;Computer+Science+Engineering+Student;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FF41" />
 </p>
 
 <p align="center">
