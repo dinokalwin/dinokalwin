@@ -311,9 +311,6 @@ Secure Configuration
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
-> connect
-<p align="center"> <a href="https://github.com/Jacob"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/> </a> <a href="https://www.linkedin.com/in/dino-kalwin-jacob-a-j-5038022a3/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"/> </a> </p>
-
 
 > system_status
 ┌──────────────────────────────────────────────────────────────┐
@@ -332,5 +329,3 @@ Secure Configuration
 │  STATUS          : ONLINE ✓                                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+SECURE;CYBERSECURITY+IS+A+CONTINUOUS+MISSION;STAY+CURIOUS.+STAY+SECURE."/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:071a0d,100:000000&height=120&section=footer"/> </p> ```
