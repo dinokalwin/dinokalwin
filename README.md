@@ -31,7 +31,7 @@
 ┌──[dino@cybersec]─[~]
 └─$ whoami
 
-Dino Jacob
+Jacob
 Computer Science Engineering Student
 Cybersecurity Enthusiast
 IoT & Cloud Security Explorer
