@@ -225,8 +225,7 @@ Incident Response
       ↓
 Secure Configuration
 
-> current_mission
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&color=00FF41&center=true&vCenter=true&width=850&lines=%5B%2B%5D+Building+Cybersecurity+Knowledge;%5B%2B%5D+Developing+SOC+Skills;%5B%2B%5D+Learning+Threat+Detection;%5B%2B%5D+Exploring+Cloud+Security;%5B%2B%5D+Practicing+IoT+Security;%5B%2B%5D+Preparing+for+Industry+Certifications"/> </p>
+
 
 
 > professional_goals
