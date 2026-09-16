@@ -141,15 +141,6 @@ My goal is to continuously develop practical cybersecurity skills through hands-
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
-> tech_stack
-Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/> </p>
-Operating Systems & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,vscode"/> </p>
-Cloud & Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=azure,mysql,mongodb"/> </p>
-
-
 > security_learning
 [+] Network Security
 [+] Security Operations
